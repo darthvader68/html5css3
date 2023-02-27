@@ -20,3 +20,8 @@ Aprenda HTML5, CSS3 e técnicas de SEO de forma simples, prática e objetiva des
 [iconfinder](https://www.iconfinder.com/)
 
 [optmizilla](https://imagecompressor.com/pt/)
+
+### Validação W3C
+[HTML](https://validator.w3.org)
+
+[CSS](https://validator.w3.org)
